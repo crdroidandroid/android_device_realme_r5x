@@ -6,7 +6,8 @@
   },
   {
     "repository": "crdroidandroid/android_kernel_realme_r5x",
-    "target_path": "kernel/realme/r5x"
+    "target_path": "kernel/realme/r5x",
+    "branch": "lineage-20"
   },
   {
     "repository": "crdroidandroid/proprietary_vendor_realme_r5x",

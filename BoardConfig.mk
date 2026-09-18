@@ -94,7 +94,7 @@ BOARD_KERNEL_PAGESIZE := 4096
 BOARD_KERNEL_OFFSET := 0x00008000
 BOARD_KERNEL_SEPARATED_DTBO := true
 TARGET_KERNEL_SOURCE := kernel/realme/r5x
-TARGET_KERNEL_CONFIG := r5x_defconfig
+TARGET_KERNEL_CONFIG := vendor/trinket-perf_defconfig vendor/r5x.config
 TARGET_KERNEL_NO_GCC := true
 
 # Partitions
